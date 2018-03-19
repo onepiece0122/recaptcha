@@ -1,13 +1,13 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "onepiece0122/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/onepiece0122/recaptcha",
 	"license": "MIT",
     "authors": [
         {
-            "name": "Greg Gilbert",
-            "email": "greg@greg-gilbert.com"
+            "name": "Onepiece0122",
+            "email": "onepiece0122@gmail.com"
         }
     ],
     "require": {
